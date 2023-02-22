@@ -13,7 +13,7 @@
 
 - 👯 I’m open to collaborating on **anything!**
 
-- ⚡ Fun fact **I can speak 4 languages**
+- ⚡ Fun fact, **I can speak 4 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
