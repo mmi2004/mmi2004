@@ -1,13 +1,13 @@
 <h1 align="center">Hey 👋, I'm Mujtaba</h1>
-<h3 align="center">Acing 1B Math @ Waterloo</h3>
+<h3 align="center">2A Math @ Waterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmi2004&label=Profile%20views&color=0e75b6&style=flat" alt="mmi2004" /> </p>
 
 - 📫 Feel free to reach out! **mmiqbal@uwaterloo.ca**
 
-- 💬 Ask me about **MERN, web development.**
+- 💬 Ask me about **web development, Python.**
 
-- 🌱 I’m currently learning **C++ and Java.**
+- 🌱 I’m currently learning **C++ and Angular.**
 
 - 🤝 I’m looking for help with **Fall 2023 coop/internships.**
 
